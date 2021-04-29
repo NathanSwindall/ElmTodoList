@@ -1,0 +1,1 @@
+const generateClick = () => console.log(uuidv4())
